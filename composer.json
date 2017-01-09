@@ -33,5 +33,5 @@
             "H34\\Auth\\Tests\\": "tests/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
